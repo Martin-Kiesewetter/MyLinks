@@ -17,3 +17,6 @@
 # Monitoring
 * https://prometheus.io/
 * [PRTG](https://www.paessler.com/)
+
+# Sonstiges
+* https://obsidian.md/ Tool zum strukturieren der eigenen Ideen
